@@ -1,4 +1,4 @@
-# Azure-Lightweight-BI-Infrastructure
+# Azure Lightweight BI Infrastructure
 Azure Lightweight BI Infrastructure is a Bicep template that deploys a minimalistic BI infrastructure in Azure for small to medium scale BI projects. It includes a SQL Server instance, a SQL Database, a Data Factory instance, and a Storage Account. This template is designed to be lightweight and easy to deploy, providing a starting point for building a customized BI solution on Azure.
 
 # What's included
